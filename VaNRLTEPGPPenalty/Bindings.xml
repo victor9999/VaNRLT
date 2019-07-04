@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding name="Low Penalty Button" description="" header="VaNRLT">
+    VaNRLT:GetModule("EPGPPenalty").low_penalty_signal:emit();
+  </Binding>
+  <Binding name="Wipe penalty Button" description="">
+    VaNRLT:GetModule("EPGPPenalty").wipe_penalty_signal:emit();
+  </Binding>
+</Bindings>

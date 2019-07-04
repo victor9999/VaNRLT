@@ -1,0 +1,7 @@
+## Interface: 30300
+## Dependencies: VaNRLT
+## Title: |cff00ff00VaNRLT|r |cff69ccf0Tracker|r
+
+locale.lua
+VaNRLTTracker.lua
+VaNRLTTrackerGUI.lua

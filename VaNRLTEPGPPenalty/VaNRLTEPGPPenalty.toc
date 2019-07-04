@@ -1,0 +1,6 @@
+## Interface: 30300
+## Dependencies: VaNRLT, epgp
+## Title: |cff00ff00VaNRLT|r |cff69ccf0EPGPPenalty|r
+
+VaNRLTEPGPPenalty.lua
+VaNRLTEPGPPenaltyGUI.lua
